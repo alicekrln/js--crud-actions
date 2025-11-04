@@ -1,4 +1,42 @@
 {
-  "users": [],
-  "dawgs": []
+  "users": [
+    {
+      "id": "f0a9",
+      "username": "alice",
+      "email": "alice@gmail.com",
+      "password": "gurka123"
+    },
+    {
+      "id": "e340",
+      "username": "challe",
+      "email": "challe@yahoo.com",
+      "password": "banan75"
+    },
+    {
+      "id": "2b66",
+      "username": "matte",
+      "email": "matte@hotmail.com",
+      "password": "hej-san"
+    }
+  ],
+  "dawgs": [
+    {
+      "id": "014c",
+      "name": "Charlie",
+      "age": "3",
+      "breed": "French bulldog"
+    },
+    {
+      "id": "1919",
+      "name": "Pelle",
+      "age": "8",
+      "breed": "Golden Retriever"
+    },
+    {
+      "id": "e52d",
+      "name": "Kerstin",
+      "age": "24",
+      "breed": "Rottweiler"
+    }
+  ]
 }
