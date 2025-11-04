@@ -1,5 +1,4 @@
 const BASE_URL = "http://localhost:3000";
-const url = new URL(BASE_URL);
 
 async function fetchUsers() {
     return fetch(`${BASE_URL}/users`).then((res) => res.json());
